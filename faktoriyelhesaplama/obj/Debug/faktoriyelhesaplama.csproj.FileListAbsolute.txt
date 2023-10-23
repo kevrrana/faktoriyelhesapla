@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\bin\Debug\faktoriyelhesaplama.exe.config
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\bin\Debug\faktoriyelhesaplama.exe
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\bin\Debug\faktoriyelhesaplama.pdb
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\obj\Debug\faktoriyelhesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\obj\Debug\faktoriyelhesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\obj\Debug\faktoriyelhesaplama.Form1.resources
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\obj\Debug\faktoriyelhesaplama.Properties.Resources.resources
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\obj\Debug\faktoriyelhesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\obj\Debug\faktoriyelhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\obj\Debug\faktoriyelhesaplama.exe
+C:\Users\User\source\repos\faktoriyelhesaplama\faktoriyelhesaplama\obj\Debug\faktoriyelhesaplama.pdb
